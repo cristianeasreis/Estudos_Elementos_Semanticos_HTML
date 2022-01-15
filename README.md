@@ -17,31 +17,7 @@ Muitos sites contêm código HTML como: <div id="nav"> <div class="header"> <div
 
 Em HTML existem alguns elementos semânticos que podem ser usados para definir diferentes partes de uma página web: 
 
-ü ![HTML Semantic Elements](file:///C:/Users/CSOUZA~1.REI/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
-
-**<article>**                
-
-ü **<aside>**
-
-ü **<details>**
-
-ü **<figcaption>**
-
-ü **<figure>**
-
-ü **<footer>**
-
-ü **<header>**
-
-ü **<main>**
-
-ü **<mark>**
-
-ü **<nav>**
-
-ü **<section>**
-
-ü **<summary>**
-
-**<time>**
-
+<ul>
+<li>article</li>
+</ul>
+- 
