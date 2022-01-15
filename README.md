@@ -3,9 +3,9 @@
 <p>
 Um elemento semântico descreve claramente seu significado tanto para o navegador quanto para o desenvolvedor.
 <br>
-Exemplos de elementos não semânticos : <div>e <span>- Não informa nada sobre seu conteúdo.
+Exemplos de elementos não semânticos : div e span Não informa nada sobre seu conteúdo.
 <br>
-Exemplos de elementos semânticos : <form>, <table>, e <article>- Define claramente seu conteúdo.
+Exemplos de elementos semânticos : form, table, e article - Define claramente seu conteúdo.
 </p>
 <ul>
 <li>article</li>
