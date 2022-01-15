@@ -1,8 +1,10 @@
 # Estudos_Elementos_Semanticos_HTML
-<h1>O que são Elementos Semânticos? <h1>
+<h1>O que são Elementos Semânticos?</h1>
 <p>
 Um elemento semântico descreve claramente seu significado tanto para o navegador quanto para o desenvolvedor.
+<br>
 Exemplos de elementos não semânticos : <div>e <span>- Não informa nada sobre seu conteúdo.
+<br>
 Exemplos de elementos semânticos : <form>, <table>, e <article>- Define claramente seu conteúdo.
 </p>
 <ul>
@@ -12,3 +14,4 @@ Exemplos de elementos semânticos : <form>, <table>, e <article>- Define clarame
 <li>article</li>
 </ul>
 - 
+
