@@ -7,11 +7,22 @@ Exemplos de elementos não semânticos : div e span Não informa nada sobre seu 
 <br>
 Exemplos de elementos semânticos : form, table, e article - Define claramente seu conteúdo.
 </p>
+<br>
 <ul>
 <li>article</li>
 <li>aside</li>
 <li>details</li>
-<li>article</li>
+<li>figcaption</li>
+<li>figure</li>
+<li>footer</li>
+<li>header</li>
+<li>main</li>
+<li>mark</li>
+<li>nav</li>
+<li>section</li>
+<li>summary</li>
+<li>time</li>
 </ul>
-- 
+<br>
+
 
